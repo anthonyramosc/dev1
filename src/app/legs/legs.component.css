@@ -1,0 +1,12 @@
+.legis{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+
+    width: 200px;
+    height:200px;
+    margin: 10px; 
+    padding: 10px; 
+}
